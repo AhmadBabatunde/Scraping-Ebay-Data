@@ -1,5 +1,6 @@
-#Web Scraping Project Documentation
-#Overview
+#Web Scraping 
+Project Documentation
+Overview
 This project aims to demonstrate the power and utility of web scraping by collecting and analyzing data from eBay. Using Scrapy, a powerful web crawling and scraping framework in Python, we extract valuable information about iPhone listings and their associated seller feedback.
 
 Purpose
@@ -9,6 +10,7 @@ Technologies Used
 Scrapy: Utilized for web scraping due to its simplicity, flexibility, and powerful features for data extraction.
 Python: The primary language used for coding the scraping scripts.
 GitHub: Hosting repository for version control and collaboration.
+SrapeOps: Protectection against antibots.
 Project Structure
 The project structure comprises the following key components:
 
